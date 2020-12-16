@@ -43,6 +43,6 @@ set( VORBIS_INC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/3rd/vorbis/include )
 
 add_subdirectory( 3rd/ogg )
 add_subdirectory( 3rd/vorbis )
-add_subdirectory( 3rd/SimpleAudioPlayer/src )
+add_subdirectory( 3rd/SimpleAudioPlayer )
 
 add_subdirectory( src )
