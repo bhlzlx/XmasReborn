@@ -1,0 +1,15 @@
+[submodule "GxCMakeModule"]
+	path = GxCMakeModule
+	url = https://github.com/bhlzlx/GxCMakeModule.git
+[submodule "3rd/SimpleAudioPlayer"]
+	path = 3rd/SimpleAudioPlayer
+	url = ../SimpleAudioPlayer
+[submodule "3rd/LockFreeQueue"]
+	path = 3rd/LockFreeQueue
+	url = ../LockFreeQueue
+[submodule "3rd/vorbis"]
+	path = 3rd/vorbis
+	url = https://github.com/xiph/vorbis.git
+[submodule "3rd/ogg"]
+	path = 3rd/ogg
+	url = https://github.com/xiph/ogg.git
