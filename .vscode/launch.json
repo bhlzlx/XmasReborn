@@ -11,7 +11,7 @@
             "program": "${workspaceFolder}/bin/Windows_64_Debug/Xmas.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}/bin",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
